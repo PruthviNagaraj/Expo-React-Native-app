@@ -58,7 +58,7 @@ const Todo = () => {
       <ScrollView
         contentContainerStyle={{
           flexGrow: 1,
-          overflow: 'auto'
+          // overflow: 'auto'
         }}
         keyboardShouldPersistTaps='handled'
       >
